@@ -1,0 +1,31 @@
+- Become GodLord 0 0 1
+    - Immortality  0 0 1
+        - organ replacement 0 0 1
+            - YouTube Channel 3 0 0
+            - understand biology 7 0 0
+        - eliminate aging 0 0 1
+            - science automation 0 0 1
+                - Bayesian information theory 15 0 0
+                - scientific design 10 0 0
+                - Virtualization 30 0 0
+            - Robotics 0 0 1
+                - threeD printers/Construction 5 0 0
+                - material science 4 0 0
+        - defeat entropy 0 0 1
+            - understand physics 100 0 0
+    - Omniscience 0 0 1
+        - cognitive enhancement 0 0 1
+            - Productivity Programs  1 0 0
+            - hypnosis 2 0 0
+            - neuralink 5 0 0
+            - rationality 1 0 0
+            - TCDS 3 0 0
+            - nootropics 1 0 0
+        - lifestyle 0 0 1
+            - exercise 10 0 0
+            - sleep 0 0 1
+                - lucid dreaming 7 0 0
+    - Mitigation 0 0 1
+        - money 0 0 1
+            - cryptocurrency 4 0 0
+            - casino project 3 0 0
